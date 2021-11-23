@@ -1,7 +1,7 @@
 !
 ! Title: Rules for simple rules tests
 !
-! Version 0.0.9
+! Version 0.1.0
 ! Filter to be used for testing purposes
 ! https://testcases.adguard.com
 !
@@ -37,4 +37,3 @@ testcases.adguard.*,surge.*###case-5-wildcard-for-tld > .test-banner
 ||*/iframe-test-2.html^$domain=testcases.adguard.com|surge.sh
 @@||*/iframe-test-2.html^$subdocument,domain=testcases.adguard.com|surge.sh
 example.org#%#window.__gaq = undefined
-||pornhub.com^
