@@ -1,10 +1,11 @@
-!
+
 ! Title: Rules for simple rules tests
-!
+
 ! Version 0.1.0
 ! Filter to be used for testing purposes
 ! https://testcases.adguard.com
-!
+
+
 ! Hide warning
 testcases.adguard.com,surge.sh###subscribe-to-test-simple-rules-filter
 ! Test case 1: domain-specific elemhide rule
