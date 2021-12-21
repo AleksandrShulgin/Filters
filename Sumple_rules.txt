@@ -1,8 +1,7 @@
 !
 ! Title: Rules for simple rules tests
-!
+! Description: Filter to be used for testing purposes
 ! Version 0.2.0
-! Filter to be used for testing purposes
 ! https://testcases.adguard.com
 !
 ! Hide warning
